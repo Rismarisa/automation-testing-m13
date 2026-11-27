@@ -1,0 +1,21 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# File konfigurasi rahasia
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Hasil pengujian lokal
+reports/
+screenshots/
+
+# Konfigurasi editor
+.vscode/

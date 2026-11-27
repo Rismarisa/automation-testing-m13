@@ -3,7 +3,7 @@
 ## 1. Identitas Mahasiswa
 
 - Nama: Risma Marisa
-- NIM: 3224019Get-Item README.md | Select-Object Name,Length
+- NIM: 3224019
 - Semester: V (Lima)
 - Institusi: STMIK Bandung
 - Mata Kuliah: Implementasi dan Pengujian Perangkat Lunak
